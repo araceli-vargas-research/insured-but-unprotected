@@ -119,12 +119,12 @@ beyond the claims-denial count used in the provisional appeal-rate denominator.
 
 ## Next research steps
 
-1. Archive the 2025 and 2026 Transparency data dictionaries.
-2. Add older Transparency PUFs to lengthen the pre-treatment period.
-3. Select one precisely defined policy family.
-4. Complete a three-state legal-coding pilot using primary sources.
-5. Add historical Rate, Plan Attributes, and Service Area PUFs.
-6. Audit treatment timing, sample composition, and pre-trends before estimating
+1. Archiving the 2025 and 2026 Transparency data dictionaries
+2. Adding older Transparency PUFs to lengthen the pre-treatment period.
+3. Selecting one precisely defined policy family.
+4. Completing a three-state legal-coding pilot using primary sources.
+5. Adding historical Rate, Plan Attributes, and Service Area PUFs.
+6. Auditing treatment timing, sample composition, and pre-trends before estimating
    causal effects.
 
 Instructions for publishing this package as a private repository are in
