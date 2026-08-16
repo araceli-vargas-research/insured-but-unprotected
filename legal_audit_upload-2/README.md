@@ -1,6 +1,6 @@
 # Legal Audit Package
 
-This folder contains the legal-data infrastructure for **Insured but Unprotected: State Regulation and Hidden Contract Quality in U.S. Health Insurance**.
+this folder contains the legal-data infrastructure for **Insured but Unprotected: State Regulation and Hidden Contract Quality in U.S. Health Insurance**
 
 ## What is included
 
