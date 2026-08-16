@@ -1,0 +1,7 @@
+dataset,publisher,coverage,role,url,local_status,notes
+Transparency in QHP Coverage PUF,CMS/CCIIO,Publication years 2023-2026 uploaded; claims years approximately 2021-2024,Claims denials appeals reversals enrollment,https://www.cms.gov/marketplace/resources/data/public-use-files,Included,"2025 and 2026 claims-year mapping requires dictionary verification"
+Plan Attributes PUF,CMS/CCIIO,Plan year 2026,Plan characteristics and linkage test,https://www.cms.gov/marketplace/resources/data/public-use-files,Included,"Historical files still required for contemporaneous controls"
+Rate PUF,CMS/CCIIO,Needed for claims years 2021-2024,Standardized premiums,https://www.cms.gov/marketplace/resources/data/public-use-files,Not included,"Download historical files only after outcome audit"
+Service Area PUF,CMS/CCIIO,Needed for claims years 2021-2024,Issuer and plan geographic participation,https://www.cms.gov/marketplace/resources/data/public-use-files,Not included,"Needed for county-level participation measures"
+Form 5500 Group Health Plan Research File,U.S. Department of Labor,Annual,Descriptive ERISA reach,https://www.dol.gov/agencies/ebsa/about-ebsa/our-activities/public-disclosure/foia/form-5500-datasets,Not included,"Employer headquarters do not necessarily identify participant residence"
+MEPS Insurance Component,AHRQ,Annual and multiyear state tables,State self-funding estimates,https://meps.ahrq.gov/survey_comp/Insurance.jsp,Not included,"Distinguish establishments from covered workers"

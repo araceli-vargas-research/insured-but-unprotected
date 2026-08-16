@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this research repository, please cite it."
+title: "Insured but Unprotected: State Regulation and Hidden Contract Quality in U.S. Health Insurance"
+type: dataset
+authors:
+  - family-names: Vargas
+    given-names: Araceli
+date-released: 2026-08-15
+version: 0.1.0

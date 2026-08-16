@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+output/figures/*.png
+data/raw/cms_downloads/
+
+# Keep the supplied public CMS inputs in this research handoff. If repository
+# size later becomes a problem, move data/raw to a release or external archive.

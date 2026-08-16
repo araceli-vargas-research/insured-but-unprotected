@@ -1,0 +1,11 @@
+file,sheet,puf_publication_year,claims_year,claims_year_verified,raw_plan_rows,states,issuer_state_markets,plans
+2017_transparency-in-coverage-puf.zip,PUF Transparency 2017 9132017,2017,2015,True,150,38,150,0
+2018_transparency-in-coverage-puf.zip,PUF Transparency 2018,2018,2016,True,123,39,123,0
+2019_transparency-in-coverage-puf.zip,PUF Transparency 2019,2019,2017,True,135,39,135,0
+2020_transparency-in-coverage-puf.zip,PUF Transparency 2020,2020,2018,True,3322,38,175,3322
+2021_transparency-in-coverage-puf.zip,Transparency 2021 - Ind QHP,2021,2019,True,3629,36,181,3629
+2022_transparency-in-coverage-puf.zip,Transparency 2022 - Ind QHP,2022,2020,True,5152,33,213,5152
+2023_transparency-in-coverage-puf.zip,Transparency 2023 - Ind QHP,2023,2021,True,6764,33,230,6764
+2024_transparency-in-coverage-puf.zip,Transparency 2024 - Ind QHP,2024,2022,True,5050,32,209,5050
+2025_transparency-in-coverage-puf.zip,Transparency 2025 - Ind QHP,2025,2023,True,4541,31,206,4541
+2026_transparency-in-coverage-puf.zip,Transparency 2026 - Ind QHP,2026,2024,True,4159,30,185,4159
